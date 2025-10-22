@@ -1,6 +1,13 @@
 .btn {
   border-width: 2px;
 }
+
+.telefone{
+  color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
 img,
 .card-wrap,
 .card-wrapper,
